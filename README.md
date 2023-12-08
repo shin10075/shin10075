@@ -5,7 +5,7 @@
 
 
 
-## <center>🐣신입  웹 개발자입니다<br/><br/>잘 부탁드립니다~👋</center>
+## <center>🐣신입 백엔드 개발자입니다<br/><br/>잘 부탁드립니다~👋</center>
 <br><br>
 <div align='center'>
 	Contact
@@ -15,7 +15,7 @@
 	<br>
 	Coming soon
 	<br>
-	<a href='https://publish.obsidian.md/shin10075/Area/AboutMe/Bono%EC%9D%98+%EA%B0%9C%EB%B0%9C+%EA%B8%B0%EB%A1%9D%EC%9E%A5' target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white" /></a>
+	<a href='https://publish.obsidian.md/shin10075/Area/AboutMe/Bono%EC%9D%98+%EA%B0%9C%EB%B0%9C+%EA%B8%B0%EB%A1%9D%EC%9E%A5' target='_blank'><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white" /></a>
 </div>
 <br><br>
 <br>
